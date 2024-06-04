@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **TypeScript/Next JS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
